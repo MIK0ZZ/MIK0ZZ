@@ -1,7 +1,12 @@
-- 👋 This is the hand I use to code and do some many other things
-- 18 yo
-- Interested in competitive games and rythm games (I'm shit at both)
-- @beltrankempo on discord
-- I like anime too but Im ashamed to say it
+# ZMiK0_
 
-
+* 19 yo software engineer (just joking Im just a student)
+* Arch btw
+---
+### Things I like:
+* League
+* Minecraft
+* Cyberpunk 2077
+* Jjk
+* Dragon ball
+* Frieren
